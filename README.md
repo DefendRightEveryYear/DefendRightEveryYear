@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+<h2>📊 Project Management:</h2>
+
 <h2>🏆 Certifications:</h2><a href="https://www.credly.com/badges/bf9d0fe8-6b39-4695-a20f-da14927c718d/public_url">CompTIA A+</a>
 <br/><a href="https://www.credly.com/badges/8b254060-be3a-4873-bec8-30521e8c4de1/public_url">CompTIA Network+</a>
 <br/><a href="https://www.credly.com/badges/95717c72-48dc-42d4-829d-4fb5cf89fc36/public_url">CompTIA Security+</a>
