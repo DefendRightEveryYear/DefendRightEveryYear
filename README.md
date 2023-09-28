@@ -1,4 +1,4 @@
-<h1>Hi, I'm Drey! <br/><a href="http://linkedin.com/in/dakarius-daughtry-000567a1/">Cybersecurity Professional</a> and <a href="https://github.com/DefendRightEveryYear">Enthusiast</a>
+<h1>Hi, I'm Drey! <br/></a> I am an <a href="http://linkedin.com/in/dakarius-daughtry-000567a1/">IT Professional</a> with a passion for <a href="https://github.com/DefendRightEveryYear">Cybersecurity</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
