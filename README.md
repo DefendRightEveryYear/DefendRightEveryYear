@@ -1,14 +1,19 @@
 <h1>Hi, I'm Drey! <br/></a> I am an <a href="http://linkedin.com/in/dakarius-daughtry-000567a1/">IT Professional</a> with a passion for <a href="https://github.com/DefendRightEveryYear">Cybersecurity</a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>Practice:<br/><a href="https://github.com/DefendRightEveryYear/HackTheBox-Practice"> Hack The Box</a>
-<br/><a href="https://github.com/DefendRightEveryYear/TryHackMe-Practice">TryHackMe</a>
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+
+- <b>Practice:<br/>
+  - [Hack The Box](https://github.com/DefendRightEveryYear/HackTheBox-Practice)
+  - [TryHackMe](https://github.com/DefendRightEveryYear/TryHackMe-Practice)
        
 <h2>📊 Project Management:</h2>
 
-<h2>🏆 Certifications:</h2><a href="https://www.credly.com/badges/bf9d0fe8-6b39-4695-a20f-da14927c718d/public_url">CompTIA A+</a>
-<br/><a href="https://www.credly.com/badges/8b254060-be3a-4873-bec8-30521e8c4de1/public_url">CompTIA Network+</a>
-<br/><a href="https://www.credly.com/badges/95717c72-48dc-42d4-829d-4fb5cf89fc36/public_url">CompTIA Security+</a>
-<br/><a href="https://www.credly.com/badges/e9b82e30-21f2-4925-b0ab-34b416f4adc2/public_url">PMI - Project Management Professional</a>
+<h2>🏆 Certifications:</h2>
+
+- [CompTIA A+](https://www.credly.com/badges/bf9d0fe8-6b39-4695-a20f-da14927c718d/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/8b254060-be3a-4873-bec8-30521e8c4de1/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/95717c72-48dc-42d4-829d-4fb5cf89fc36/public_url)
+- [Project Management Professional](https://www.credly.com/badges/e9b82e30-21f2-4925-b0ab-34b416f4adc2/public_url)
 
 <h2>📺 Recorded Projects and Information</h2><a href="">Cybersecurity Demonstrations</a>
 <br/><a href="">Cybersecurity Topics</a>
