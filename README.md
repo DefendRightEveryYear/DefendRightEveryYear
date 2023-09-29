@@ -3,8 +3,8 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>SIEM:<br/>
-  - [Azure Sentinel+honeypot setup, observing and locating live attacks globally]()
-  - [Splunk setup+Cyber Threat Detection]()
+  - [Azure Sentinel+honeypot setup, observing and locating live attacks globally](https://github.com/DefendRightEveryYear/CyberSecurity-Projects/tree/main/SIEM/Azure%20Sentinel%20Lab)
+  - [Splunk setup+Cyber Threat Detection](https://github.com/DefendRightEveryYear/CyberSecurity-Projects/tree/main/SIEM/Splunk%20Lab)
 
 
 
