@@ -1,6 +1,6 @@
 <h1>Hi, I'm Drey! <br/></a> I am an <a href="http://linkedin.com/in/dakarius-daughtry-000567a1/">IT Professional</a> with a passion for <a href="https://github.com/DefendRightEveryYear">Cybersecurity</a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 CyberSecurity Projects:</h2><a href="https://github.com/DefendRightEveryYear/HackTheBox-Practice">Hack The Box Practice</a>
 
 <h2>📊 Project Management:</h2>
 
