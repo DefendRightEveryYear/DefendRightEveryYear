@@ -9,7 +9,11 @@
 <br/><a href="https://www.credly.com/badges/95717c72-48dc-42d4-829d-4fb5cf89fc36/public_url">CompTIA Security+</a>
 <br/><a href="https://www.credly.com/badges/e9b82e30-21f2-4925-b0ab-34b416f4adc2/public_url">PMI - Project Management Professional</a>
 
-<h2>📺 Recorded Projects and Information</h2>
+<h2>📺 Recorded Projects and Information</h2><a href="">Cybersecurity Projects</a>
+<br/><a href="">Cybersecurity Topics</a>
+<br/><a href="">Project Management</a>
+<br/><a href="">IT Certifcations</a>
+
 
 <h2> 🤳 Connect with me:</h2>
 
