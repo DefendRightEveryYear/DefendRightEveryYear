@@ -20,6 +20,9 @@
 <br/><a href="">Project Management</a>
 <br/><a href="">IT Certifcations</a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefendRightEveryYear&layout=compact)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DefendRightEveryYear)](https://github.com/DefendRightEveryYear/github-readme-stats)
 
 <h2> 🤳 Connect with me:</h2>
 
