@@ -2,6 +2,12 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>SIEM:<br/>
+  - [Azure Sentinel+honeypot setup, observing and locating live attacks globally]()
+  - [Splunk setup+Cyber Threat Detection]()
+
+
+
 - <b>Practice:<br/>
   - [Hack The Box](https://github.com/DefendRightEveryYear/HackTheBox-Practice)
   - [TryHackMe](https://github.com/DefendRightEveryYear/TryHackMe-Practice)
