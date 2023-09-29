@@ -1,5 +1,6 @@
-<h1>Hi, I'm Drey! <br/></a> I am an <a href="http://linkedin.com/in/dakarius-daughtry-000567a1/">IT Professional</a> with a passion for <a href="https://github.com/DefendRightEveryYear">Cybersecurity</a>
-
+# Hi 👋🏼 I'm Drey!
+## I am an <a href="http://linkedin.com/in/dakarius-daughtry-000567a1/">IT Professional</a> with a passion for <a href="https://github.com/DefendRightEveryYear">Cybersecurity!</a> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1B91A9&lines=Life+Long+Learner;Security+Researcher;Network+Engineer;Cyber+Security+Student;Project+Management+Professional)](https://git.io/typing-svg)
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>SIEM:<br/>
