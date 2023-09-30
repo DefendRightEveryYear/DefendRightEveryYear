@@ -1,6 +1,5 @@
-# Hi 👋🏼 I'm Drey!
+# Hi 👋🏼 I'm Drey! 
 ## I am an <a href="http://linkedin.com/in/dakarius-daughtry-000567a1/">IT Professional</a> with a passion for <a href="https://github.com/DefendRightEveryYear">Cybersecurity!</a> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1B91A9&lines=Life+Long+Learner;Security+Researcher;Network+Engineer;Cyber+Security+Student;Project+Management+Professional)](https://git.io/typing-svg)
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>SIEM:<br/>
@@ -26,14 +25,9 @@
 ### Tools I've Used 🛠️
 <img src="https://img.shields.io/badge/python-darkgreen?style=for-the-badge&logo=python&labelColor=darkgreen&logoColor=white"/> <img src="https://img.shields.io/badge/photoshop-darkblue?style=for-the-badge&logo=photoshop&labelColor=pink"/> <img src="https://img.shields.io/badge/canva-34c2c7?style=for-the-badge&logo=canva&labelColor=34c2c7&logoColor=white"/> <img src="https://img.shields.io/badge/wireshark-3762f0?style=for-the-badge&logo=wireshark&labelColor=3762f0"/> <img src="https://img.shields.io/badge/packet tracer-4287f5?style=for-the-badge&logo=packet-tracer&labelColor=4287f5"/> <img src="https://img.shields.io/badge/linux-818285?style=for-the-badge&logo=linux&labelColor=818285&logoColor=ffea00"/> <img src="https://img.shields.io/badge/VirtualBox-0451b5?style=for-the-badge&logo=virtualbox&labelColor=0451b5&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-00a1f1?style=for-the-badge&logo=windows&labelColor=00a1f1&logoColor=white"/> <img src="https://img.shields.io/badge/powershell-012456?style=for-the-badge&logo=powershell&labelColor=012456"/> 
 
-<h2>📺 Recorded Projects and Information</h2><a href="">Cybersecurity Demonstrations</a>
-<br/><a href="">Cybersecurity Topics</a>
-<br/><a href="">Project Management</a>
-<br/><a href="">IT Certifcations</a>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DefendRightEveryYear&layout=compact)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DefendRightEveryYear)](https://github.com/DefendRightEveryYear/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=300&duration=1500&pause=250&color=000000&width=435&lines=Life+Long+Learner;Security+Researcher;Network+Engineer;Project+Management+Professional;Cyber+Security+Student)](https://git.io/typing-svg)
 
 <h2> 🤳 Connect with me:</h2>
 
