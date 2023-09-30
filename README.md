@@ -7,13 +7,14 @@
   - [Azure Sentinel+honeypot setup, observing and locating live attacks globally](https://github.com/DefendRightEveryYear/CyberSecurity-Projects/tree/main/SIEM/Azure%20Sentinel%20Lab)
   - [Splunk setup+Cyber Threat Detection](https://github.com/DefendRightEveryYear/CyberSecurity-Projects/tree/main/SIEM/Splunk%20Lab)
 
-
-
 - <b>Practice:<br/>
   - [Hack The Box](https://github.com/DefendRightEveryYear/HackTheBox-Practice)
   - [TryHackMe](https://github.com/DefendRightEveryYear/TryHackMe-Practice)
        
 <h2>📊 Project Management:</h2>
+
+  - [Tableau Public for Project Management and Beyond](https://github.com/DefendRightEveryYear/ProjectManagement/tree/main/Tableau%20Public%20for%20Project%20Management%20and%20Beyond)
+  - [Project Scheduling: Estimate Activity Durations](https://github.com/DefendRightEveryYear/ProjectManagement/tree/main/Project%20Scheduling:%20Estimate%20Activity%20Durations)
 
 <h2>🏆 Certifications:</h2>
 
