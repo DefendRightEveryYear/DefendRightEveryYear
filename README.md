@@ -1,5 +1,5 @@
 # Hi 👋🏼 I'm Drey! 
-## I am an <a href="http://linkedin.com/in/dakarius-daughtry-000567a1/">IT Professional</a> with a passion for <a href="https://github.com/DefendRightEveryYear">Cybersecurity!</a> 
+## I am an <a href="https://www.linkedin.com/in/dakarius-daughtry/">IT Professional</a> with a passion for <a href="https://github.com/DefendRightEveryYear">Cybersecurity!</a> 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>SIEM:<br/>
@@ -34,7 +34,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[linkedin]: http://linkedin.com/in/dakarius-daughtry-000567a1/
+[linkedin]: http://linkedin.com/in/dakarius-daughtry-000567a1/](https://www.linkedin.com/in/dakarius-daughtry/
 [youtube]: https://www.youtube.com/@DefendRightEveryYear
 
 <!--
