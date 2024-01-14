@@ -17,10 +17,13 @@
 
 <h2>🏆 Certifications:</h2>
 
+- [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/682008f3-63de-4b69-84c2-a0875933e6c3)
+- [CompTIA CySA+](https://www.credly.com/badges/c6a421ca-a81a-40fe-a316-ae6c558c2a7c)
+- [CompTIA Security+](https://www.credly.com/badges/95717c72-48dc-42d4-829d-4fb5cf89fc36/public_url)
 - [CompTIA A+](https://www.credly.com/badges/bf9d0fe8-6b39-4695-a20f-da14927c718d/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/8b254060-be3a-4873-bec8-30521e8c4de1/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/95717c72-48dc-42d4-829d-4fb5cf89fc36/public_url)
 - [PMI - Project Management Professional (PMP)](https://www.credly.com/badges/e9b82e30-21f2-4925-b0ab-34b416f4adc2/public_url)
+- [ITIL4](https://www.credly.com/badges/b6b172f8-8e31-4992-bfc0-945a54f28a7f)
 
 ### Tools I've Used 🛠️
 <img src="https://img.shields.io/badge/python-darkgreen?style=for-the-badge&logo=python&labelColor=darkgreen&logoColor=white"/> <img src="https://img.shields.io/badge/photoshop-darkblue?style=for-the-badge&logo=photoshop&labelColor=pink"/> <img src="https://img.shields.io/badge/canva-34c2c7?style=for-the-badge&logo=canva&labelColor=34c2c7&logoColor=white"/> <img src="https://img.shields.io/badge/wireshark-3762f0?style=for-the-badge&logo=wireshark&labelColor=3762f0"/> <img src="https://img.shields.io/badge/packet tracer-4287f5?style=for-the-badge&logo=packet-tracer&labelColor=4287f5"/> <img src="https://img.shields.io/badge/linux-818285?style=for-the-badge&logo=linux&labelColor=818285&logoColor=ffea00"/> <img src="https://img.shields.io/badge/VirtualBox-0451b5?style=for-the-badge&logo=virtualbox&labelColor=0451b5&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-00a1f1?style=for-the-badge&logo=windows&labelColor=00a1f1&logoColor=white"/> <img src="https://img.shields.io/badge/powershell-012456?style=for-the-badge&logo=powershell&labelColor=012456"/> 
